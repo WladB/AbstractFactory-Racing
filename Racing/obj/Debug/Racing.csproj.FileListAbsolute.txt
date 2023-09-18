@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Racing\Racing\bin\Debug\Racing.exe.config
+C:\Users\User\source\repos\Racing\Racing\bin\Debug\Racing.exe
+C:\Users\User\source\repos\Racing\Racing\bin\Debug\Racing.pdb
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.Form1.resources
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.Properties.Resources.resources
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.exe
+C:\Users\User\source\repos\Racing\Racing\obj\Debug\Racing.pdb
